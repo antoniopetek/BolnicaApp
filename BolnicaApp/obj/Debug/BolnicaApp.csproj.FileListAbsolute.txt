@@ -1,0 +1,278 @@
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\BolnicaApp.exe.config
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\BolnicaApp.exe
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\BolnicaApp.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\netstandard.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.AppContext.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.Concurrent.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.Specialized.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Console.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Data.Common.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Process.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Drawing.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Globalization.Calendars.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Globalization.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Globalization.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.Compression.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.Pipes.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.Expressions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.Parallel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.Queryable.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Http.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.NameResolution.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Ping.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Requests.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Security.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Sockets.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Net.WebSockets.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.ObjectModel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Reflection.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Reflection.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Reflection.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Resources.Reader.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Resources.Writer.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Handles.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Numerics.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Claims.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Principal.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Security.SecureString.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Text.Encoding.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Overlapped.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Thread.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Timer.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XDocument.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XPath.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\Npgsql.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.ValueTuple.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\Npgsql.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\Npgsql.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\System.ValueTuple.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csprojAssemblyReference.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.exe.config
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Properties.Resources.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csproj.GenerateResource.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csproj.CoreCompileInputs.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csproj.CopyComplete
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.exe
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPrijava.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmGlavniIzbornik.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPregledi.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmZaposlenici.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajZaposlenika.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediZaposlenika.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmStatistika.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmBolesti.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajBolest.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediBolest.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmLijekovi.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajLijek.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediLijek.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmEvidencije.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmRecepti.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPregledRecepata.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPacijenti.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajPacijenta.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediPacijenta.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\Pretrazivanje.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\bin\Debug\Pretrazivanje.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmZdravstveniKarton.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajPovijest.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmRezervacijaPregleda.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\BolnicaApp.exe.config
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\BolnicaApp.exe
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\BolnicaApp.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\netstandard.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.AppContext.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.Concurrent.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Collections.Specialized.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Console.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Data.Common.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Process.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Drawing.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Globalization.Calendars.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Globalization.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Globalization.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.Compression.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.Pipes.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.Expressions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.Parallel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Linq.Queryable.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Http.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.NameResolution.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Ping.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Requests.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Security.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.Sockets.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Net.WebSockets.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.ObjectModel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Reflection.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Reflection.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Reflection.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Resources.Reader.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Resources.Writer.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Handles.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Numerics.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Claims.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.Principal.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Security.SecureString.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Text.Encoding.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Overlapped.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Thread.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Timer.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XDocument.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XPath.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\Npgsql.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\Pretrazivanje.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.ValueTuple.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\Npgsql.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\Npgsql.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\Pretrazivanje.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\bin\Debug\System.ValueTuple.xml
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csprojAssemblyReference.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.exe.config
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmBolesti.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajBolest.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajLijek.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajPacijenta.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajPovijest.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmDodajZaposlenika.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmEvidencije.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmGlavniIzbornik.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmLijekovi.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPregledi.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPregledRecepata.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPrijava.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmRecepti.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmRezervacijaPregleda.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmStatistika.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediBolest.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediLijek.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediPacijenta.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmZaposlenici.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmUrediZaposlenika.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmPacijenti.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Forme.FrmZdravstveniKarton.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.Properties.Resources.resources
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csproj.GenerateResource.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csproj.CoreCompileInputs.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.csproj.CopyComplete
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.exe
+D:\Fakultet organizacije i informatike\Diplomski studij\1. semestar\BolnicaApp\BolnicaApp\obj\Debug\BolnicaApp.pdb

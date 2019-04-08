@@ -1,0 +1,2 @@
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\PretrazivanjeDGV\obj\Debug\PretrazivanjeDGV.csprojAssemblyReference.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\PretrazivanjeDGV\obj\Debug\PretrazivanjeDGV.csproj.CoreCompileInputs.cache

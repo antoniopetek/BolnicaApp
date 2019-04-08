@@ -1,0 +1,5 @@
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\Pretrazivanje\bin\Debug\Pretrazivanje.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\Pretrazivanje\bin\Debug\Pretrazivanje.pdb
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\Pretrazivanje\obj\Debug\Pretrazivanje.csproj.CoreCompileInputs.cache
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\Pretrazivanje\obj\Debug\Pretrazivanje.dll
+D:\Fakultet organizacije i informatike\Diplomski studij\Teorija baza podataka\BolnicaApp\Pretrazivanje\obj\Debug\Pretrazivanje.pdb
